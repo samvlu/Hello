@@ -1,4 +1,4 @@
-### Hello
+## Hello
 
 A project to get familiarized with git
 
