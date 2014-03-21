@@ -1,15 +1,11 @@
 ## Hello
 
-A project to get familiarized with git
+A project to get familiarized with git.
+Currently collaborating with `https://github.com/cssrules`
 
 ***
 
-
-#### Foundation libsass template
-
-This is a template to start your own project that uses Grunt and libsass!
-
-#### Requirements
+#### Install These First
 
 You'll need to have the following items installed before continuing.
 
@@ -20,17 +16,7 @@ You'll need to have the following items installed before continuing.
 #### Quickstart
 
 ```bash
-git clone git@github.com:zurb/foundation-libsass-template.git
+git clone https://github.com/samvlu/Hello.git
 npm install && bower install
+grunt
 ```
-
-While you're working on your project, run:
-
-`grunt`
-
-And you're set!
-
-#### Directory Strucutre
-
-  * `scss/_settings.scss`: Foundation configuration settings go in here
-  * `scss/app.scss`: Application styles go here
