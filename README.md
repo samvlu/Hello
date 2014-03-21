@@ -22,3 +22,10 @@ git clone https://github.com/samvlu/Hello.git
 npm install && bower install
 grunt
 ```
+
+***
+
+#### Preview
+
+![Preview](https://raw.githubusercontent.com/samvlu/Hello/master/images/preview.png)
+
