@@ -1,7 +1,9 @@
 ## Hello
 
 A project to get familiarized with git.
+
 Currently collaborating with `https://github.com/cssrules`
+
 
 ***
 
