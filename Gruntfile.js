@@ -11,12 +11,15 @@ module.exports = function(grunt) {
           outputStyle: 'compressed'
         },
         files: {
-          'css/app.css': 'scss/app.scss'
-        }        
+          'css/style.css': 'scss/style.scss'
+        }
       }
     },
 
     watch: {
+      options: {
+        livereload: true,
+      },
       grunt: { files: ['Gruntfile.js'] },
 
       sass: {

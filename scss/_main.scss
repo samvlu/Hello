@@ -1,0 +1,26 @@
+
+/****************************  Author SCSS  ********************************/
+
+// variables
+$background-color: #f2f2f2;
+$grey: #3b3c40;
+$white: #fff;
+
+
+// main scss
+body {
+    background: $background-color; }
+
+.hello {
+    margin-top: 12%;
+    margin-bottom: 5%;
+    text-align: center;
+    h1 {
+        text-shadow: horizontal-offset vertical-offset blur color;
+        text-shadow: 2px 4px 2px rgba(0,0,0,0.3);
+        font-size: rem-calc(100px);
+        color: $white;
+        margin-bottom: 0;}
+    p {
+        color: $grey;
+    } }
