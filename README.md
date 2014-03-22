@@ -7,6 +7,12 @@ Currently collaborating with `https://github.com/cssrules`
 
 ***
 
+#### Preview
+
+![Preview](https://raw.githubusercontent.com/samvlu/Hello/master/images/preview.png)
+
+***
+
 #### Install These First
 
 You'll need to have the following items installed before continuing.
@@ -23,9 +29,4 @@ npm install && bower install
 grunt
 ```
 
-***
-
-#### Preview
-
-![Preview](https://raw.githubusercontent.com/samvlu/Hello/master/images/preview.png)
 
